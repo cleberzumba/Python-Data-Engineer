@@ -39,3 +39,5 @@ Tenho 50 mil linhas de dados sobre candidatos. Os campos que estou usando são:
 
 
 **Todos os dados aqui são totalmente falsos!!!**
+
+**aqui fiz o trabalho de DBA, Engenheiro de Dados e Analista de Dados.**
