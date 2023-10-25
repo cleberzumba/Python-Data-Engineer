@@ -18,7 +18,7 @@ As visualizações são as seguintes:
 Tecnologias que utilizei:
 
 - Python
-- Jupiter Notebook
+- Jupyter Notebook
 - Banco de dados PostgreSQL
 
 
