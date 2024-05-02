@@ -24,7 +24,7 @@ Technologies I used:
 
 ## Data
 
-I have 50 thousand rows of data about candidates. The fields I'm using are:
+There are 50 thousand rows of data about candidates. The fields I'm using are::
 
 - First Name
 - Last Name
