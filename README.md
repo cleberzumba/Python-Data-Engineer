@@ -1,35 +1,35 @@
 # Python-Data-Engineer
-Análise de dados e visualizações de gráficos.
+Data analysis and graph visualizations.
 
-O objetivo final é mostrar métricas específicas em algumas visualizações de gráficos. Um Dataset em formato CSV contém dados de candidatos que participaram dos processos seletivos (dados simulados) de uma empresa, e terá que fazer algumas análises e manipulações em cima desses dados.
+The ultimate goal is to show specific metrics in some chart views. A Dataset in CSV format contains data from candidates who participated in a company's selection processes (simulated data), and you will have to carry out some analyzes and manipulations based on this data.
 
-Criei uma aplicação em Python para migrar os dados para um banco de dados relacional. O banco de dados que escolhi foi o PostreSQL que eu mesmo instalei, configurei, criei o banco de dados e criei o usuário do banco. Além disso, fiz análises e manipulações nos dados e mostrei esses dados do banco de dados em visualizações de gráficos; Então, esses dados irão ser armazenados em um banco de dados e os relatórios irão vir do banco de dados, não do arquivo CSV.
+I created a Python application to migrate data to a relational database. The database I chose was PostreSQL, which I installed, configured, created the database and created the database user. Additionally, I performed analysis and manipulation on the data and displayed this data from the database in graph visualizations; So, this data will be stored in a database and the reports will come from the database, not the CSV file.
 
-As visualizações são as seguintes:
+The views are as follows:
 
-- Contratações por tecnologia (gráfico de pizza)
-- Contratações por ano (gráfico de barras horizontal)
-- Contratações por antiguidade (gráfico de barras)
-- Contratações por país ao longo dos anos (apenas EUA, Brasil, Colômbia e Equador) (gráfico multilinha)
+- Hiring by technology (pie chart)
+- Hires per year (horizontal bar graph)
+- Hiring by seniority (bar chart)
+- Hiring by country over the years (USA, Brazil, Colombia and Ecuador only) (multiline graph)
 
 
-## Tecnologias
+## Technologies
 
-Tecnologias que utilizei:
+Technologies I used:
 
-- Python
+-Python
 - Jupyter Notebook
-- Banco de dados PostgreSQL
+- PostgreSQL database
 
 
-## Dados
+## Data
 
-Tenho 50 mil linhas de dados sobre candidatos. Os campos que estou usando são:
+I have 50 thousand rows of data about candidates. The fields I'm using are:
 
 - First Name
 - Last Name
 - Email
-- Country
+-Country
 - Application Date
 - Yoe (years of experience)
 - Seniority
@@ -37,7 +37,6 @@ Tenho 50 mil linhas de dados sobre candidatos. Os campos que estou usando são:
 - Code Challenge Score
 - Technical Interview
 
+**All data here is completely false!!!**
 
-**Todos os dados aqui são totalmente falsos!!!**
-
-**Aqui eu fiz o trabalho de DBA, Engenheiro de Dados e Analista de Dados.**
+**Here I did the work of DBA, Data Engineer and Data Analyst.**
